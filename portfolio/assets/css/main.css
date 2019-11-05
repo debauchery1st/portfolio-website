@@ -117,7 +117,8 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #6f7577;
-		font-family: "Raleway", "Helvetica", sans-serif;
+		font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+		/* font-family: "Raleway", "Helvetica", sans-serif; */
 		font-size: 15pt;
 		font-weight: 400;
 		line-height: 1.75em;
@@ -158,7 +159,7 @@ input, select, textarea {
 		letter-spacing: 0.075em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		/* text-transform: uppercase; */
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -2186,8 +2187,8 @@ input, select, textarea {
 			font-variant: normal;
 			text-rendering: auto;
 			line-height: 1;
-			text-transform: none !important;
-			font-family: 'Font Awesome 5 Free';
+			/* text-transform: none !important; */
+			/* font-family: 'Font Awesome 5 Free'; */
 			font-weight: 400;
 		}
 
@@ -2204,7 +2205,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			/* font-family: 'Font Awesome 5 Brands'; */
 		}
 
 		.icon.major {
